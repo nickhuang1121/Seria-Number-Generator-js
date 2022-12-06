@@ -4,7 +4,7 @@
 # Installation
 <script src="serial-number-generator.js"></script>
 
-# JavaScript
+## JavaScript
 let SN = serialNumberGenerator();
 
 let SN = serialNumberGenerator(
