@@ -43,5 +43,13 @@ let SN = serialNumberGenerator(
         quantity: "10" // How many serial numbers to generate
     }
 );
+
+let list = document.querySelector("#list");
+let li = "";
+
+SN.forEach(function (i) {
+    li += `<li>${i}</li>`
+});
+list.innerHTML = li;
 ```
 
