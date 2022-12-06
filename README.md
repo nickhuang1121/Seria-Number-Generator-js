@@ -5,8 +5,12 @@
 <script src="serial-number-generator.js"></script>
 
 ## JavaScript
+### Fast Use
+```javascript
 let SN = serialNumberGenerator();
-
+```
+###detailed settings
+```javascript
 let SN = serialNumberGenerator(
     {
         SNLength: 20, //serial Length
@@ -17,3 +21,4 @@ let SN = serialNumberGenerator(
         quantity: "10" // How many serial numbers to generate
     }
 );
+```
