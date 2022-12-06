@@ -1,5 +1,5 @@
 # Serial-Number-Generator-js
-能夠自動產生序號的javascript，可以設定大小寫、數字、分組...等。
+Automatically generate javascript serial numbers, you can set capitalization, numbers, grouping...
 
 # Installation
 <script src="serial-number-generator.js"></script>
