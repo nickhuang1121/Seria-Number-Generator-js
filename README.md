@@ -1,4 +1,4 @@
-### [LIVE DEMO ➫](https://nickhuang1121.github.io/Serial-Number-Generator-js/)
+### [LIVE DEMO ➫](https://codepen.io/BlackDog1121/pen/qBKvaKB)
 
 # Serial-Number-Generator-js
 Automatically generate javascript serial numbers, you can set capitalization, numbers, grouping...
