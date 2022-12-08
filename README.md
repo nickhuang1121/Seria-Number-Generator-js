@@ -2,6 +2,7 @@
 
 # Serial-Number-Generator-js
 Automatically generate javascript serial numbers, you can set capitalization, numbers, grouping...
+自動產生序號的js，可以設定英文字大小寫、數字，幾個字與序號數量，以及是否分組。
 
 # Installation
 <script src="serial-number-generator.js"></script>
